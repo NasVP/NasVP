@@ -1,11 +1,10 @@
-# Hi there! 👋 I'm Nasly
+# Hi, I'm Nasly 👋
 
 🎓 Systems Engineering student  
-💻 Interested in Backend Development, Databases & Software Architecture  
-🛡️ Currently exploring Cybersecurity  
-🌱 Learning Java, Spring Boot, SQL and Python  
+💻 Backend Development · Databases · Software Architecture  
+🛡️ Interested in Cybersecurity  
+🌱 Currently learning Java, Spring Boot, SQL & Python  
 
-I enjoy building projects, understanding how systems work, and learning something new with every one of them.
+I’m building my skills through academic and personal projects, with a focus on understanding how systems work and creating practical solutions.
 
-📍 Colombia..
--->
+📍 Colombia
